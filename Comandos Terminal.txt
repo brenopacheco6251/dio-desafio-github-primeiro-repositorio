@@ -1,0 +1,7 @@
+dir			lista diretorios
+cd /			navega entre diretorios
+cd ..			retorna um nível
+ctrl + L		limpa terminal
+<TAB>			auto-completa
+mkdir			cria pasta
+rmdir workspace /s /q	deleta pasta com todos os arquivos
